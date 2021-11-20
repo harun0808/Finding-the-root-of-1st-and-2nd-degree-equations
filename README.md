@@ -1,0 +1,1 @@
+# Finding-the-root-of-1st-and-2nd-degree-equations
